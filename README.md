@@ -9,7 +9,7 @@
 >❤️ baseball⚾️ 
 ---
 
-<center><h3>🔥SKILL🔥</h3></center>
+<h3><center>🔥SKILL🔥</center></h3>
 <div align="center">
 <center>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
