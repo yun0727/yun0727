@@ -25,7 +25,7 @@
 
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yun0727&theme=dark&show_icons=true&thene=shadow_blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yun0727&layout=compact&theme=shadow_blue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yun0727&show_icons=true&theme=catppuccin_latte)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yun0727&layout=compact&theme=catppuccin_latte)
 ---
 </div>
