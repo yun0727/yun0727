@@ -8,7 +8,7 @@
 
 >🎓 2019.03 - 2023.02 Graduated from Kyonggi University Department of Chemical Engineering.
 
->💻 FRONTENGINEER
+>💻 FRONTEND ENGINEER
 
 >❤️ baseball⚾️ 
 
